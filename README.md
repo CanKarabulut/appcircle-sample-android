@@ -1,7 +1,7 @@
 # Appcircle Sample App for Native (Java/Kotlin) Android Build
 This is a sample2 Android for testing Android App build functionality in Appcircle. As a Java project, this repository can be used for Androimd builds...sdfg
 
-## Using the Appcircle Build Modulessssss
+## Using the Appcircle Build Modulessssssa
 You can find more information about the Appcircle Build Module and how to connect a Git repository in the [Appcircle Documentation](https://docs.appcircle.io/build/).mmssssasss
 
 ## Contribution
